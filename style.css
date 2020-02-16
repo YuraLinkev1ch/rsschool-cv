@@ -1,0 +1,30 @@
+
+body{
+    max-width:700px;
+    min-height:500px;
+        margin:auto;
+}
+
+section{
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+figure,
+h1{
+    text-align:center;
+}
+h1{
+    font-size: 36px;
+}
+
+a{
+    text-decoration: none;
+}
+ol{
+    font-size: 20px;
+    
+}
+
+ul{
+    margin:20px 0;
+}
