@@ -7,3 +7,6 @@
  3. **Summary:**I started programming in 2019. I like web development and I would like to work in this direction. My positive qualities are determination, willingness to take on difficult tasks, the ability to work in a team.
 4. **Skills:** HTML, CSS, Flexbox, Grid, Basic Javascript, jQuery, Bootstrap.
 5. **Code Examples**: You can see all my projects on my [Github](https://github.com/YuraLinkev1ch) page.
+6. **Experience:** I don't have any commercial experience.
+7. **Education:** I finished the layout course from IT Academy. Also I studied courses and intensives from html academy.
+8. **English:** pre-intermediate (A2).
